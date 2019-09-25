@@ -1,0 +1,43 @@
+{
+  "editor.rulers": [
+    100,
+    120
+  ],
+  "editor.detectIndentation": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.insertSpaces": true,
+  "editor.trimAutoWhitespace": true,
+  "files.insertFinalNewline": true,
+  "html.format.endWithNewline": true,
+  "[scss]": {
+    "editor.tabSize": 2
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2
+  },
+  "[csharp]": {
+    "editor.tabSize": 4
+  },
+  "[css]": {
+    "editor.tabSize": 2
+  },
+  "[html]": {
+    "editor.tabSize": 4
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[razor]": {
+    "editor.tabSize": 4
+  },
+  "[typescript]": {
+    "editor.tabSize": 2
+  },
+  "[aspnetcorerazor]": {
+    "editor.tabSize": 4
+  }
+}

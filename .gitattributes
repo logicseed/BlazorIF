@@ -1,0 +1,23 @@
+# Default Line Endings
+* text=auto eol=lf
+
+# Shell Scripts
+*.{cmd,[cC][mM][dD]}    text    eol=crlf
+*.{bat,[bB][aA][tT]}    text    eol=crlf
+*.{sh,[Ss][Hh]}         text    eol=lf
+
+# Source Files
+*.cs                    text    diff=csharp
+*.razor                 text
+*.html                  text
+*.scss                  text
+*.css                   text
+*.ts                    text
+*.js                    text
+
+# Project Files
+*.sln                   text
+*.csproj                text
+
+# Documentation Files
+*.md                    text    eol=lf

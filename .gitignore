@@ -1,0 +1,21 @@
+# Build Results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Bb]in/
+[Oo]bj/
+
+# User-specific Files
+*.csproj.user
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+
+# Visual Studio
+[Pp]roperties
+.vs/
+
+# OS Garbage
+.DS_Store
